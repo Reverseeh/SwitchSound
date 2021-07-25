@@ -29,7 +29,7 @@ This is only to **support my works**, it is **not mandatory**.
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 SwitchSound is licensed under the GNU GPLv3.  
-[View Here.](https://choosealicense.com/licenses/gpl-3.0/)
+[View Here.](https://github.com/Reverseeh/SwitchSound/blob/main/LICENSE)
 
 | Permissions | Restrictions | Conditions
 | --- | --- | --- 
